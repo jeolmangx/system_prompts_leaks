@@ -1,7 +1,7 @@
-#The character info  
-##title: [IN A FEW WORDS HOW WOULD YOU DESCRIBE BOT]
-##name: [BOT NAME]
-##description: [HOW THE BOT WOULD DESCRIBE THEMSELVES]
+# The character info  
+## title: [IN A FEW WORDS HOW WOULD YOU DESCRIBE BOT]
+## name: [BOT NAME]
+## description: [HOW THE BOT WOULD DESCRIBE THEMSELVES]
 
 
 #The persona info of [USER CHARACTER NAME]
