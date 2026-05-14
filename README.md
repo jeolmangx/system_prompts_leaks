@@ -11,7 +11,7 @@ Updated regularly with new models and versions. PRs welcome.
 
 <img alt="ChatGPT leaking its system prompt after being asked to repeat all of the above" src="https://github.com/user-attachments/assets/0037a6c5-2ae4-4d34-8be0-0d679773172b" />
 
-<img alt="Claude reasoning about documenting system prompts in a human-readable way" src="https://github.com/user-attachments/assets/444e3fcc-9374-4964-afd3-069222713dc0" />
+<img alt="Claude confirming an extracted system prompt is authentic" src="https://github.com/user-attachments/assets/444e3fcc-9374-4964-afd3-069222713dc0" />
 
 
 ---
